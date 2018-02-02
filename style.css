@@ -1,0 +1,12 @@
+.body{
+	background: white;
+}
+#image{
+	position: relative;
+	top: 100px;
+	left: 450px;
+	height:400px;
+	width: 300px;
+	margin: 1%;
+	float:left;
+}		
